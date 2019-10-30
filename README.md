@@ -1,1 +1,3 @@
 # rom
+
+nekaj sem dopisal
